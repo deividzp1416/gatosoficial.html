@@ -2,3 +2,16 @@ h1{
     color: #68dd78;
     font-weight: bold;
 }
+
+.center{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: hotpink;
+}
+#para1 {
+    text-align: center;
+    color: red;
+  }
