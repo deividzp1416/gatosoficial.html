@@ -9,9 +9,47 @@ h1{
 
 body{
     text-align: center;
-    background-color: hotpink;
+    background-color: rgb(97, 64, 81);
 }
 #para1 {
     text-align: center;
-    color: red;
+    color: rgb(187, 231, 26);
   }
+  *{
+    margin: auto;
+}
+
+p{
+    margin: 40px;
+    border: 2px solid rgb(0, 248, 248);
+    padding: 0px;
+}
+
+h1{
+    background-color:rgb(65, 187, 48);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(121, 35, 179);
+    text-align: center;
+}
+
+#miSuperTitulo{
+    font-size: 50px;
+    padding: 70px;
+}
+
+.hiper{
+    display: inline;
+    padding: 90px;
+    margin-bottom: 5    0px;
+}
+
+.imagenesIntro{
+    width: 210px;
+    display: block;
+    margin-top: 600px ;
+}
+
+a:hover{
