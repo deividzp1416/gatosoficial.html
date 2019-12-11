@@ -43,7 +43,7 @@ body{
 .hiper{
     display: inline;
     padding: 90px;
-    margin-bottom: 5    0px;
+    margin-bottom: 50px;
 }
 
 .imagenesIntro{
@@ -52,4 +52,37 @@ body{
     margin-top: 600px ;
 }
 
-a:hover{
+.cuadro1{
+width: 190px;
+height:190px; 
+border: 2px solid black;
+padding: 2% ;
+background-color:rgba(7, 187, 103, 0.493);
+margin: 5% ;
+position: absolute ;
+right: 30px ;
+top: 10px
+}
+.cuadro2{
+width: 190px;
+height:50px; 
+border: 2px solid black;
+padding: 2% ;
+background-color: rgba(58, 37, 172, 0.445);
+margin: 5% ;
+position: fixed ;
+left: 2%;
+top: 10% 
+}
+.cuadro3{
+    width: 180px;
+    height: 60px;
+    border: 2px solid black;
+    padding: 2%;
+    background-color: rgba(129, 25, 106, 0.5);
+    margin: 5%;  
+    
+    position: relative;
+    top: 40px;
+    right: 40px;
+}
